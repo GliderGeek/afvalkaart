@@ -1,0 +1,4 @@
+{
+ "_uitleg": "Handmatige correcties van posities. Sleutel = locatiecode, waarde = {\"coord\": [lon, lat], \"reden\": \"...\"}. Gaat voor de tekening en het adres.",
+ "_voorbeeld": {"coord": [4.8547, 52.3783], "reden": "Container staat op de hoek, zie foto in issue #1"}
+}

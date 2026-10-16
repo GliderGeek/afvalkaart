@@ -1,0 +1,40 @@
+name: Correctie melden
+description: Een container staat verkeerd, ontbreekt of hoort er niet te staan.
+title: "Correctie: "
+labels: ["correctie"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bedankt! Klik op de container op de kaart en neem de gegevens uit de popup over. De link uit de adresbalk geeft de kaartpositie, dus plak die ook.
+  - type: dropdown
+    id: soort
+    attributes:
+      label: Wat klopt er niet?
+      options:
+        - De plek staat verkeerd op de kaart
+        - Er staat een container die er niet (meer) is
+        - Er ontbreekt een container
+        - Het soort of aantal containers klopt niet
+        - Iets anders
+    validations:
+      required: true
+  - type: input
+    id: adres
+    attributes:
+      label: Adres of locatiecode
+      description: Zoals in de popup, bijvoorbeeld "Reinaert de Vosstraat 27 (1055CL-27)".
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link naar de kaart
+      description: Zoom in op de juiste plek en kopieer de adresbalk (bijvoorbeeld …/#20/52.37836/4.85471).
+  - type: textarea
+    id: toelichting
+    attributes:
+      label: Toelichting
+      description: Wat is de juiste situatie, en hoe weet je dat? (eigen waarneming, brief van de gemeente, foto …)
+    validations:
+      required: true

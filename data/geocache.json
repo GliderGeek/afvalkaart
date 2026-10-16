@@ -1,0 +1,450 @@
+{
+ "1055AB-458": {
+  "coord": [
+   4.847589,
+   52.3760303
+  ],
+  "gevonden": "Hoofdweg 458, 1055AB Amsterdam",
+  "methode": "postcode"
+ },
+ "1055AB-646": {
+  "coord": [
+   4.8468686,
+   52.3773033
+  ],
+  "gevonden": "Hoofdweg 646, 1055AB Amsterdam",
+  "methode": "postcode"
+ },
+ "1055AN-18": {
+  "coord": [
+   4.8483035,
+   52.376447
+  ],
+  "gevonden": "Elckerlijcstraat 18-1, 1055AN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055AN-20": {
+  "coord": [
+   4.8482419,
+   52.3766894
+  ],
+  "gevonden": "Marieken van Nimwegenstraat 20-1, 1055BL Amsterdam",
+  "methode": "adres"
+ },
+ "1055AN-24": {
+  "coord": [
+   4.8481685,
+   52.3766801
+  ],
+  "gevonden": "Elckerlijcstraat 24, 1055AN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055AP-46": {
+  "coord": [
+   4.847868,
+   52.377245
+  ],
+  "gevonden": "Elckerlijcstraat 46-1, 1055AP Amsterdam",
+  "methode": "postcode"
+ },
+ "1055AW-22": {
+  "coord": [
+   4.8491062,
+   52.3768641
+  ],
+  "gevonden": "Griseldestraat 22-1, 1055AW Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BG-24": {
+  "coord": [
+   4.8500144,
+   52.377057
+  ],
+  "gevonden": "Lanseloetstraat 24-1, 1055BG Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BJ-30": {
+  "coord": [
+   4.8478537,
+   52.3760046
+  ],
+  "gevonden": "Erasmusgracht 30, Amsterdam",
+  "methode": "adres"
+ },
+ "1055BK-11": {
+  "coord": [
+   4.8501632,
+   52.3768959
+  ],
+  "gevonden": "Marieken van Nimwegenstraat 11, 1055BK Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BK-5": {
+  "coord": [
+   4.8515111,
+   52.3771626
+  ],
+  "gevonden": "Marieken van Nimwegenstraat 5, 1055BK Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BL-13": {
+  "coord": [
+   4.8496651,
+   52.3767948
+  ],
+  "gevonden": "Marieken van Nimwegenstraat 13, 1055BL Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BN-17": {
+  "coord": [
+   4.8506914,
+   52.3769342
+  ],
+  "gevonden": "Sanderijnstraat 17-1, 1055BN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055BN-23": {
+  "coord": [
+   4.8505712,
+   52.3771584
+  ],
+  "gevonden": "Sanderijnstraat 23-1, 1055BN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CE-26": {
+  "coord": [
+   4.8518456,
+   52.3774338
+  ],
+  "gevonden": "Esmoreitstraat 26-1, 1055CE Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CJ-60": {
+  "coord": [
+   4.8513798,
+   52.3783035
+  ],
+  "gevonden": "Esmoreitstraat 60-1, 1055CJ Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CK-1": {
+  "coord": [
+   4.8517736,
+   52.37853
+  ],
+  "gevonden": "Tijl Uilenspiegelstraat 1-1, 1055CK Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CK-6": {
+  "coord": [
+   4.8513781,
+   52.3784473
+  ],
+  "gevonden": "Tijl Uilenspiegelstraat 6, 1055CK Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CK-60": {
+  "coord": [
+   4.8504115,
+   52.3782182
+  ],
+  "gevonden": "Sanderijnstraat 60, 1055BW Amsterdam",
+  "methode": "adres"
+ },
+ "1055CL-27": {
+  "coord": [
+   4.8547129,
+   52.3783635
+  ],
+  "gevonden": "Reinaert de Vosstraat 27, 1055CL Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CM-12": {
+  "coord": [
+   4.855939,
+   52.3789891
+  ],
+  "gevonden": "Reinaert de Vosstraat 12, 1055CM Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CM-16": {
+  "coord": [
+   4.8547826,
+   52.3786694
+  ],
+  "gevonden": "Reinaert de Vosstraat 16, 1055CM Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CM-18": {
+  "coord": [
+   4.8543139,
+   52.3785684
+  ],
+  "gevonden": "Reinaert de Vosstraat 18, 1055CM Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CN-1": {
+  "coord": [
+   4.8533174,
+   52.3783841
+  ],
+  "gevonden": "Theophilusstraat 1-1, 1055CN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CP-9": {
+  "coord": [
+   4.8530628,
+   52.3787964
+  ],
+  "gevonden": "Theophilusstraat 9-1, 1055CP Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CR-16": {
+  "coord": [
+   4.8528968,
+   52.3791642
+  ],
+  "gevonden": "Theophilusstraat 16-1, 1055CR Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CR-17": {
+  "coord": [
+   4.8528816,
+   52.379209
+  ],
+  "gevonden": "Theophilusstraat 17-1, 1055CR Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CT-11": {
+  "coord": [
+   4.8535312,
+   52.3789244
+  ],
+  "gevonden": "Gloriantstraat 11-1, 1055CT Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CW-21": {
+  "coord": [
+   4.8532758,
+   52.3793996
+  ],
+  "gevonden": "Gloriantstraat 21-1, 1055CW Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CW-22": {
+  "coord": [
+   4.8532308,
+   52.3794802
+  ],
+  "gevonden": "Gloriantstraat 22-1, 1055CW Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CX-2": {
+  "coord": [
+   4.8542252,
+   52.3786129
+  ],
+  "gevonden": "Lorreinenstraat 2-1, 1055CX Amsterdam",
+  "methode": "postcode"
+ },
+ "1055CZ-11": {
+  "coord": [
+   4.8538949,
+   52.3792136
+  ],
+  "gevonden": "Lorreinenstraat 11-1, 1055CZ Amsterdam",
+  "methode": "postcode"
+ },
+ "1055DD-10": {
+  "coord": [
+   4.8543939,
+   52.3792428
+  ],
+  "gevonden": "Merlijnstraat 10-1, 1055DD Amsterdam",
+  "methode": "postcode"
+ },
+ "1055DE-19": {
+  "coord": [
+   4.8541538,
+   52.3796731
+  ],
+  "gevonden": "Merlijnstraat 19-1, 1055DE Amsterdam",
+  "methode": "postcode"
+ },
+ "1055DG-1": {
+  "coord": [
+   4.8552661,
+   52.3787704
+  ],
+  "gevonden": "Twee Koningskinderenstraat 1, 1055DG Amsterdam",
+  "methode": "postcode"
+ },
+ "1055DT-203": {
+  "coord": [
+   4.8533917,
+   52.3795349
+  ],
+  "gevonden": "Bos en Lommerweg 203, 1055DT Amsterdam",
+  "methode": "postcode"
+ },
+ "1055DW-263": {
+  "coord": [
+   4.8502721,
+   52.3785748
+  ],
+  "gevonden": "Bos en Lommerweg 263, 1055DW Amsterdam",
+  "methode": "postcode"
+ },
+ "1055EA-331": {
+  "coord": [
+   4.8483122,
+   52.3781547
+  ],
+  "gevonden": "Bos en Lommerweg 331-1, 1055EA Amsterdam",
+  "methode": "postcode"
+ },
+ "1055EA-337": {
+  "coord": [
+   4.8480627,
+   52.3781356
+  ],
+  "gevonden": "Bos en Lommerweg 337-1, 1055EA Amsterdam",
+  "methode": "postcode"
+ },
+ "1055GK-1": {
+  "coord": [
+   4.8527626,
+   52.3768987
+  ],
+  "gevonden": "Egidiusstraat 1-1, 1055GK Amsterdam",
+  "methode": "postcode"
+ },
+ "1055GN-61": {
+  "coord": [
+   4.8520725,
+   52.3780999
+  ],
+  "gevonden": "Egidiusstraat 61, 1055GN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055GT-10": {
+  "coord": [
+   4.8524676,
+   52.3782185
+  ],
+  "gevonden": "Egidiusstraat 10-1, 1055GT Amsterdam",
+  "methode": "postcode"
+ },
+ "1055LH-15": {
+  "coord": [
+   4.8565516,
+   52.37812
+  ],
+  "gevonden": "Vier Heemskinderenstraat 15-1, 1055LH Amsterdam",
+  "methode": "postcode"
+ },
+ "1055LH-16": {
+  "coord": [
+   4.8565362,
+   52.3781829
+  ],
+  "gevonden": "Vier Heemskinderenstraat 16-1, 1055LH Amsterdam",
+  "methode": "postcode"
+ },
+ "1055LJ-24": {
+  "coord": [
+   4.8562808,
+   52.3786581
+  ],
+  "gevonden": "Vier Heemskinderenstraat 24-1, 1055LJ Amsterdam",
+  "methode": "postcode"
+ },
+ "1055LN-56": {
+  "coord": [
+   4.8545753,
+   52.3800345
+  ],
+  "gevonden": "Vier Heemskinderenstraat 56, 1055LN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055SN-1": {
+  "coord": [
+   4.8548327,
+   52.3769439
+  ],
+  "gevonden": "Heer Halewijnstraat 1-1, 1055SN Amsterdam",
+  "methode": "postcode"
+ },
+ "1055SR-12": {
+  "coord": [
+   4.8546648,
+   52.3774734
+  ],
+  "gevonden": "Heer Halewijnstraat 12-H, 1055SP Amsterdam",
+  "methode": "adres"
+ },
+ "1055ST-21": {
+  "coord": [
+   4.8545272,
+   52.3779312
+  ],
+  "gevonden": "Heer Halewijnstraat 21-1, 1055ST Amsterdam",
+  "methode": "postcode"
+ },
+ "1055SV-1": {
+  "coord": [
+   4.8553462,
+   52.3769912
+  ],
+  "gevonden": "Ferguutstraat 1-1, 1055SV Amsterdam",
+  "methode": "postcode"
+ },
+ "1055SX-13": {
+  "coord": [
+   4.8551178,
+   52.3776642
+  ],
+  "gevonden": "Ferguutstraat 13-1, 1055SX Amsterdam",
+  "methode": "postcode"
+ },
+ "1055TC-13": {
+  "coord": [
+   4.8555855,
+   52.3778551
+  ],
+  "gevonden": "Blancefloorstraat 13-1, 1055TC Amsterdam",
+  "methode": "postcode"
+ },
+ "1055TC-18": {
+  "coord": [
+   4.8555088,
+   52.3781244
+  ],
+  "gevonden": "Blancefloorstraat 18-1, 1055TC Amsterdam",
+  "methode": "postcode"
+ },
+ "1055TE-1": {
+  "coord": [
+   4.8562553,
+   52.3771121
+  ],
+  "gevonden": "Elegaststraat 1-1, 1055TE Amsterdam",
+  "methode": "postcode"
+ },
+ "1055TH-14": {
+  "coord": [
+   4.856071,
+   52.3777854
+  ],
+  "gevonden": "Elegaststraat 14-1, 1055TH Amsterdam",
+  "methode": "postcode"
+ },
+ "1056ES-19": {
+  "coord": [
+   4.8570655,
+   52.3769
+  ],
+  "gevonden": "Roelantstraat 19, 1056ES Amsterdam",
+  "methode": "postcode"
+ }
+}

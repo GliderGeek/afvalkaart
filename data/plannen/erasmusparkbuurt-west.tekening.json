@@ -1,0 +1,1040 @@
+{
+ "toelichting": "Cirkels uit de kaart van het locatiebesluit, gegenereerd door scripts/tekening.py. 'label' (en eventueel 'code' en 'opmerking') zijn met de hand nagelezen; de rest is berekend. 'pt' is het middelpunt van de cirkel, 'symbool_pt' het containersymbool (in PDF-punten); 'coord' volgt het symbool als dat er is.",
+ "georeferentie": {
+  "controlepunten": 27,
+  "rms_m": 2.37,
+  "max_m": 5.19,
+  "schaal": "1:1004",
+  "rotatie_graden": 0.493
+ },
+ "cirkels": [
+  {
+   "kleur": "oranje",
+   "label": "1055AB-458",
+   "pt": [
+    630.3,
+    1415.7
+   ],
+   "symbool_pt": [
+    630.3,
+    1416.1
+   ],
+   "coord": [
+    4.8475388,
+    52.3757568
+   ],
+   "score": 0.97
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055AB-646",
+   "pt": [
+    472.6,
+    970.8
+   ],
+   "symbool_pt": [
+    473.8,
+    970.9
+   ],
+   "coord": [
+    4.8467104,
+    52.3771665
+   ],
+   "score": 0.94
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055AN-18",
+   "pt": [
+    757.7,
+    1185.1
+   ],
+   "coord": [
+    4.8481869,
+    52.376494
+   ],
+   "score": 0.78
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055AN-24",
+   "pt": [
+    767.2,
+    1145.4
+   ],
+   "symbool_pt": [
+    765.7,
+    1148.8
+   ],
+   "coord": [
+    4.8482266,
+    52.3766095
+   ],
+   "score": 0.68
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055AW-22",
+   "pt": [
+    933.7,
+    1092.8
+   ],
+   "symbool_pt": [
+    936.6,
+    1093.6
+   ],
+   "coord": [
+    4.8491072,
+    52.3767895
+   ],
+   "score": 0.95
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055BG-24",
+   "pt": [
+    1092.8,
+    1041.5
+   ],
+   "symbool_pt": [
+    1111.4,
+    1037.3
+   ],
+   "coord": [
+    4.8500079,
+    52.3769731
+   ],
+   "score": 0.95
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055BN-23",
+   "pt": [
+    1243.8,
+    991.0
+   ],
+   "symbool_pt": [
+    1244.3,
+    995.2
+   ],
+   "coord": [
+    4.8506927,
+    52.3771104
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CE-26",
+   "pt": [
+    1455.5,
+    922.9
+   ],
+   "symbool_pt": [
+    1458.5,
+    925.5
+   ],
+   "coord": [
+    4.8517964,
+    52.3773377
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CK-1",
+   "pt": [
+    1468.9,
+    503.6
+   ],
+   "symbool_pt": [
+    1469.3,
+    504.4
+   ],
+   "coord": [
+    4.8518335,
+    52.3786754
+   ],
+   "score": 0.97
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CK-6",
+   "pt": [
+    1342.2,
+    569.6
+   ],
+   "symbool_pt": [
+    1341.5,
+    564.0
+   ],
+   "coord": [
+    4.8511758,
+    52.3784826
+   ],
+   "score": 0.88
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CK-60",
+   "pt": [
+    1162.2,
+    633.7
+   ],
+   "symbool_pt": [
+    1171.5,
+    636.0
+   ],
+   "coord": [
+    4.8503006,
+    52.3782493
+   ],
+   "score": 0.9
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CL-27",
+   "opmerking": "Textielcontainer uit tabel IIa is op de tekening niet als symbool te zien.",
+   "pt": [
+    1964.4,
+    575.0
+   ],
+   "coord": [
+    4.8543949,
+    52.3784647
+   ],
+   "score": 0.95
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CM-16",
+   "pt": [
+    2029.1,
+    526.5
+   ],
+   "symbool_pt": [
+    2029.4,
+    526.3
+   ],
+   "coord": [
+    4.8547286,
+    52.3786212
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CN-1",
+   "pt": [
+    1694.1,
+    653.2
+   ],
+   "coord": [
+    4.8530017,
+    52.378209
+   ],
+   "score": 0.97
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CR-16",
+   "pt": [
+    1662.4,
+    360.7
+   ],
+   "symbool_pt": [
+    1662.4,
+    360.5
+   ],
+   "coord": [
+    4.8528249,
+    52.3791377
+   ],
+   "score": 0.77
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CR-17",
+   "pt": [
+    1646.2,
+    343.1
+   ],
+   "symbool_pt": [
+    1646.9,
+    345.9
+   ],
+   "coord": [
+    4.8527442,
+    52.3791837
+   ],
+   "score": 0.76
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CW-21",
+   "pt": [
+    1734.6,
+    281.1
+   ],
+   "symbool_pt": [
+    1734.9,
+    281.1
+   ],
+   "coord": [
+    4.853196,
+    52.3793919
+   ],
+   "score": 0.76
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CW-22",
+   "pt": [
+    1725.8,
+    262.9
+   ],
+   "symbool_pt": [
+    1726.5,
+    263.3
+   ],
+   "coord": [
+    4.8531518,
+    52.3794482
+   ],
+   "score": 0.76
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055CX-2",
+   "pt": [
+    1916.6,
+    537.3
+   ],
+   "symbool_pt": [
+    1917.1,
+    538.1
+   ],
+   "coord": [
+    4.8541489,
+    52.3785806
+   ],
+   "score": 0.93
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055DB-20",
+   "opmerking": "Lorreinenstraat 20 (grofafval). Staat niet in tabel IIa; daar staat wel Reinaert de Vosstraat 18 (1055CM-18), die geen cirkel heeft.",
+   "pt": [
+    1820.8,
+    184.0
+   ],
+   "coord": [
+    4.8536355,
+    52.3797027
+   ],
+   "score": 0.82
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055DE-19",
+   "pt": [
+    1868.7,
+    135.5
+   ],
+   "symbool_pt": [
+    1868.7,
+    135.5
+   ],
+   "coord": [
+    4.8538809,
+    52.379858
+   ],
+   "score": 0.93
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055DG-1",
+   "pt": [
+    2106.0,
+    544.7
+   ],
+   "symbool_pt": [
+    2106.0,
+    545.0
+   ],
+   "coord": [
+    4.8551252,
+    52.3785639
+   ],
+   "score": 0.98
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055DT-203",
+   "pt": [
+    1786.5,
+    213.0
+   ],
+   "symbool_pt": [
+    1790.9,
+    209.7
+   ],
+   "coord": [
+    4.8534822,
+    52.3796202
+   ],
+   "score": 0.82
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055DW-263",
+   "pt": [
+    1148.1,
+    498.2
+   ],
+   "symbool_pt": [
+    1148.6,
+    498.9
+   ],
+   "coord": [
+    4.8501762,
+    52.3786841
+   ],
+   "score": 0.9
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055EA-331",
+   "pt": [
+    779.3,
+    612.8
+   ],
+   "symbool_pt": [
+    757.5,
+    623.8
+   ],
+   "coord": [
+    4.8481609,
+    52.3782767
+   ],
+   "score": 0.92
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055GK-1",
+   "pt": [
+    1664.4,
+    1051.0
+   ],
+   "symbool_pt": [
+    1663.2,
+    1051.6
+   ],
+   "coord": [
+    4.8528598,
+    52.3769427
+   ],
+   "score": 0.98
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055GN-61",
+   "pt": [
+    1531.0,
+    680.2
+   ],
+   "symbool_pt": [
+    1542.2,
+    676.0
+   ],
+   "coord": [
+    4.8522178,
+    52.3781324
+   ],
+   "score": 0.86
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055GT-10",
+   "pt": [
+    1583.5,
+    673.5
+   ],
+   "symbool_pt": [
+    1584.4,
+    669.4
+   ],
+   "coord": [
+    4.8524356,
+    52.3781545
+   ],
+   "score": 0.87
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055LH-16",
+   "pt": [
+    2335.9,
+    651.2
+   ],
+   "symbool_pt": [
+    2333.7,
+    656.4
+   ],
+   "coord": [
+    4.8563068,
+    52.3782163
+   ],
+   "score": 0.91
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055LN-56",
+   "opmerking": "Tekening toont hier papier, 2x rest en GFE (ondergronds); tabel IIa noemt alleen een aanbiedplek grofafval.",
+   "pt": [
+    1995.4,
+    146.3
+   ],
+   "coord": [
+    4.854536,
+    52.3798272
+   ],
+   "score": 0.88
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055SN-1",
+   "pt": [
+    2029.1,
+    1060.4
+   ],
+   "symbool_pt": [
+    2029.1,
+    1060.2
+   ],
+   "coord": [
+    4.8547508,
+    52.3769254
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055ST-21",
+   "pt": [
+    1968.5,
+    715.9
+   ],
+   "symbool_pt": [
+    1967.0,
+    718.6
+   ],
+   "coord": [
+    4.8544147,
+    52.3780087
+   ],
+   "score": 0.97
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055SV-1",
+   "pt": [
+    2124.2,
+    1044.9
+   ],
+   "symbool_pt": [
+    2124.6,
+    1044.7
+   ],
+   "coord": [
+    4.8552436,
+    52.3769773
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055TA-1",
+   "opmerking": "Blancefloorstraat 1 (grofafval). Staat niet in tabel IIa; daar staat wel Roelantstraat 19 (1056ES-19), die geen cirkel heeft.",
+   "pt": [
+    2216.6,
+    1031.4
+   ],
+   "coord": [
+    4.8557184,
+    52.377022
+   ],
+   "score": 0.95
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055TC-18",
+   "pt": [
+    2097.9,
+    666.0
+   ],
+   "symbool_pt": [
+    2098.1,
+    665.5
+   ],
+   "coord": [
+    4.8550898,
+    52.3781809
+   ],
+   "score": 0.97
+  },
+  {
+   "kleur": "oranje",
+   "label": "1055TE-1",
+   "pt": [
+    2310.9,
+    1009.9
+   ],
+   "symbool_pt": [
+    2311.0,
+    1009.8
+   ],
+   "coord": [
+    4.8562052,
+    52.3770932
+   ],
+   "score": 0.96
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055AN-20",
+   "pt": [
+    842.0,
+    1140.6
+   ],
+   "coord": [
+    4.8486205,
+    52.3766376
+   ],
+   "cluster": "118321.615|487776.167",
+   "cluster_adres": "Marieken van Nimwegenstraat 20",
+   "afwijking_m": 5.2,
+   "score": 0.96
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055AP-46",
+   "pt": [
+    670.8,
+    900.6
+   ],
+   "coord": [
+    4.8477252,
+    52.3773952
+   ],
+   "cluster": "118266.836|487863.236",
+   "cluster_adres": "Buskenblaserstraat 30",
+   "afwijking_m": 2.0,
+   "score": 0.98
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055BJ-30",
+   "pt": [
+    634.4,
+    1392.1
+   ],
+   "coord": [
+    4.847559,
+    52.3758331
+   ],
+   "cluster": "118252.739|487686.908",
+   "cluster_adres": "Hoofdweg 458",
+   "afwijking_m": 1.2,
+   "score": 0.87
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055BK-11",
+   "pt": [
+    1134.6,
+    1040.2
+   ],
+   "coord": [
+    4.8501279,
+    52.3769645
+   ],
+   "cluster": "118433.784|487812.218",
+   "cluster_adres": "Marieken van Nimwegenstraat 11",
+   "afwijking_m": 5.1,
+   "score": 0.9
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055BK-5",
+   "opmerking": "Tekening toont rest en GFE; tabel IIc-2 noemt rest, papier en GFE.",
+   "pt": [
+    1514.1,
+    927.6
+   ],
+   "coord": [
+    4.8520838,
+    52.3773325
+   ],
+   "cluster": "118559.034|487852.624",
+   "cluster_adres": "Esmoreitstraat 22",
+   "afwijking_m": 3.1,
+   "score": 0.84
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055BL-13",
+   "pt": [
+    1022.0,
+    1084.7
+   ],
+   "coord": [
+    4.8495481,
+    52.3768201
+   ],
+   "cluster": "118388.431|487797.540",
+   "cluster_adres": "Marieken van Nimwegenstraat 13",
+   "afwijking_m": 0.9,
+   "score": 0.96
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055BN-17",
+   "pt": [
+    1279.5,
+    1047.6
+   ],
+   "coord": [
+    4.850877,
+    52.376945
+   ],
+   "cluster": "118477.301|487811.892",
+   "cluster_adres": "Sanderijnstraat 17",
+   "afwijking_m": 2.9,
+   "score": 0.92
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055CJ-60",
+   "pt": [
+    1351.6,
+    617.5
+   ],
+   "coord": [
+    4.8512304,
+    52.378313
+   ],
+   "cluster": "118505.027|487958.080",
+   "cluster_adres": "Esmoreitstraat 60",
+   "afwijking_m": 4.0,
+   "score": 0.88
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055CM-12",
+   "pt": [
+    2228.0,
+    444.3
+   ],
+   "coord": [
+    4.8557512,
+    52.3788871
+   ],
+   "cluster": "118813.384|488023.390",
+   "cluster_adres": "Vier Heemskinderenstraat 35",
+   "afwijking_m": 1.7,
+   "score": 0.81
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055EA-337",
+   "pt": [
+    740.2,
+    630.3
+   ],
+   "coord": [
+    4.8480718,
+    52.3782556
+   ],
+   "cluster": "118287.469|487957.472",
+   "cluster_adres": "Bos en Lommerweg 337",
+   "afwijking_m": 2.2,
+   "score": 0.88
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055LJ-24",
+   "pt": [
+    2250.3,
+    480.0
+   ],
+   "coord": [
+    4.855868,
+    52.3787743
+   ],
+   "cluster": "118819.407|488009.856",
+   "cluster_adres": "Reinaert de Vosstraat 13",
+   "afwijking_m": 2.0,
+   "score": 0.81
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055SR-12",
+   "pt": [
+    1972.5,
+    910.8
+   ],
+   "coord": [
+    4.8544517,
+    52.3773984
+   ],
+   "cluster": "118725.173|487858.977",
+   "cluster_adres": "Heer Halewijnstraat 12",
+   "afwijking_m": 1.8,
+   "score": 0.99
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055SX-13",
+   "pt": [
+    2066.9,
+    841.3
+   ],
+   "coord": [
+    4.8549364,
+    52.3776217
+   ],
+   "cluster": "118756.448|487884.773",
+   "cluster_adres": "Ferguutstraat 13",
+   "afwijking_m": 1.4,
+   "score": 0.97
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055TC-13",
+   "pt": [
+    2156.6,
+    804.2
+   ],
+   "coord": [
+    4.8553982,
+    52.377742
+   ],
+   "cluster": "118788.031|487897.816",
+   "cluster_adres": "Blancefloorstraat 13",
+   "afwijking_m": 1.3,
+   "score": 0.98
+  },
+  {
+   "kleur": "cyaan",
+   "label": "1055TH-13",
+   "code": "1055TH-14",
+   "opmerking": "Tekening zegt 1055TH-13, tabel 1055TH-14 (Elegaststraat 14); zelfde bestaande cluster.",
+   "pt": [
+    2252.3,
+    802.9
+   ],
+   "coord": [
+    4.8558927,
+    52.3777488
+   ],
+   "cluster": "118821.713|487898.125",
+   "cluster_adres": "Elegaststraat 14",
+   "afwijking_m": 1.1,
+   "score": 0.97
+  },
+  {
+   "kleur": "groen",
+   "label": "1055LH-15",
+   "opmerking": "Tekening toont rest en papier; tabel IIc-2 noemt alleen papier (rest vervalt).",
+   "pt": [
+    2321.7,
+    677.5
+   ],
+   "coord": [
+    4.8562457,
+    52.3781489
+   ],
+   "cluster": "118848.805|487943.202",
+   "cluster_adres": "Vier Heemskinderenstraat 16",
+   "afwijking_m": 3.2,
+   "score": 0.83
+  },
+  {
+   "kleur": "rood",
+   "label": "1055CP-9",
+   "pt": [
+    1679.3,
+    469.2
+   ],
+   "coord": [
+    4.8529171,
+    52.378793
+   ],
+   "cluster": "118619.744|488015.190",
+   "cluster_adres": "Theophilusstraat 9",
+   "afwijking_m": 0.6,
+   "score": 0.95
+  },
+  {
+   "kleur": "rood",
+   "label": "1055CT-11",
+   "pt": [
+    1768.3,
+    449.6
+   ],
+   "coord": [
+    4.8533761,
+    52.3788576
+   ],
+   "cluster": "118651.617|488021.738",
+   "cluster_adres": "Gloriantstraat 10",
+   "afwijking_m": 0.2,
+   "score": 0.93
+  },
+  {
+   "kleur": "rood",
+   "label": "1055CZ-11",
+   "pt": [
+    1841.7,
+    361.3
+   ],
+   "coord": [
+    4.8537514,
+    52.3791401
+   ],
+   "cluster": "118676.755|488052.919",
+   "cluster_adres": "Lorreinenstraat 11",
+   "afwijking_m": 0.4,
+   "score": 0.95
+  },
+  {
+   "kleur": "rood",
+   "label": "1055DD-10",
+   "pt": [
+    1931.4,
+    330.3
+   ],
+   "coord": [
+    4.8542135,
+    52.379241
+   ],
+   "cluster": "118708.636|488063.144",
+   "cluster_adres": "Merlijnstraat 10",
+   "afwijking_m": 0.7,
+   "score": 0.92
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    720.0,
+    1188.5
+   ],
+   "coord": [
+    4.8479922,
+    52.3764821
+   ],
+   "cluster": "118286.494|487762.803",
+   "cluster_adres": "Elckerlijcstraat 69",
+   "afwijking_m": 4.6,
+   "score": 0.98
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    860.9,
+    926.9
+   ],
+   "coord": [
+    4.8487086,
+    52.3773169
+   ],
+   "cluster": "118330.996|487852.700",
+   "cluster_adres": "Griseldestraat 40",
+   "afwijking_m": 1.3,
+   "score": 0.89
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    1382.0,
+    549.4
+   ],
+   "coord": [
+    4.8513844,
+    52.3785301
+   ],
+   "cluster": "118515.939|487985.586",
+   "cluster_adres": "Tijl Uilenspiegelstraat 5",
+   "afwijking_m": 0.8,
+   "score": 0.89
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    1535.7,
+    571.7
+   ],
+   "coord": [
+    4.8521796,
+    52.3784635
+   ],
+   "cluster": "118569.336|487977.853",
+   "cluster_adres": "Egidiusstraat 20",
+   "afwijking_m": 0.6,
+   "score": 0.95
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    1604.4,
+    802.9
+   ],
+   "coord": [
+    4.8525449,
+    52.377731
+   ],
+   "cluster": "118594.553|487896.024",
+   "cluster_adres": "Egidiusstraat 31",
+   "afwijking_m": 1.0,
+   "score": 0.96
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    1646.2,
+    933.0
+   ],
+   "coord": [
+    4.8527667,
+    52.377319
+   ],
+   "cluster": "118609.272|487850.406",
+   "cluster_adres": "Egidiusstraat 13",
+   "afwijking_m": 0.7,
+   "score": 0.97
+  },
+  {
+   "kleur": "grijs",
+   "label": null,
+   "pt": [
+    2054.8,
+    403.8
+   ],
+   "coord": [
+    4.8548544,
+    52.379011
+   ],
+   "cluster": "118752.331|488037.097",
+   "cluster_adres": "Twee Koningskinderenstraat 8",
+   "afwijking_m": 0.9,
+   "score": 0.91
+  }
+ ]
+}

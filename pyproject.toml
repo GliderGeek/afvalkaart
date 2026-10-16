@@ -1,0 +1,15 @@
+[project]
+name = "afvalkaart"
+version = "0.1.0"
+description = "Kaart van de afvalcontainers na uitvoering van het locatiebesluit"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pillow",
+    "pypdfium2",
+    "scipy",
+]
+
+[tool.uv]
+package = false

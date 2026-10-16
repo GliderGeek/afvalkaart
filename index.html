@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afvalkaart Erasmusparkbuurt-West</title>
+  <meta name="description" content="Onofficiële kaart van de afvalcontainers in Erasmusparkbuurt-West na uitvoering van het locatiebesluit.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Afvalcontainers <span class="sub">nieuwe situatie Erasmusparkbuurt-West</span></h1>
+    <button type="button" class="info-toggle" aria-expanded="false" aria-controls="info">Over deze kaart</button>
+  </header>
+
+  <div id="info" class="info" hidden>
+    <p><strong>Onofficiële kaart.</strong> De kaart toont hoe de afvalcontainers eruitzien nadat de gemeente het locatiebesluit heeft uitgevoerd. Het is geen product van de gemeente Amsterdam.</p>
+    <ul>
+      <li>Bestaande containers: open data van de gemeente (<a href="https://api.data.amsterdam.nl/v1/huishoudelijkafval/">Huishoudelijk afval</a>), opgehaald op <span data-meta="bestaand_opgehaald">…</span>.</li>
+      <li>Wijzigingen: <a href="docs/plekken_containers_en_grof_afval_erasmusparkbuurt-west.pdf">tabellen</a> en <a href="docs/afvalplan_erasmusparkbuurt-west.pdf">kaart</a> van het locatiebesluit, gepubliceerd op <a href="https://www.amsterdam.nl/afval/ondergrondse-afvalcontainers/west/bos-lommer/">amsterdam.nl</a>.</li>
+      <li>Adressen omgezet naar coördinaten met de <a href="https://www.pdok.nl/introductie/-/article/pdok-locatieserver">PDOK Locatieserver</a>.</li>
+      <li>Buurtgrens (stippellijn): buurt Erasmusparkbuurt-West (EF02) uit de open data <a href="https://api.data.amsterdam.nl/v1/gebieden/">Gebieden</a> van de gemeente, zonder het deel ten zuiden van de Erasmusgracht (daar toont het besluit geen plekken).</li>
+      <li>Klopt er iets niet? <a href="https://github.com/GliderGeek/afvalkaart/issues/new?template=correctie.yml">Meld een correctie</a> (GitHub-account nodig).</li>
+      <li>Broncode en data: <a href="https://github.com/GliderGeek/afvalkaart">github.com/GliderGeek/afvalkaart</a>.</li>
+      <li>Nieuwe plekken zijn overgenomen van de kaart van het besluit (nauwkeurig tot op een paar meter). Is een positie onzeker, dan staat dat in de popup.</li>
+    </ul>
+  </div>
+
+  <main class="map-wrap">
+    <div id="map" aria-label="Kaart met afvalcontainers"></div>
+
+    <aside class="legend" id="legend">
+      <button type="button" class="legend-toggle" aria-expanded="true" aria-controls="legend-body">
+        <span class="chev" aria-hidden="true"></span><span class="legend-toggle-label">Verberg legenda</span>
+      </button>
+      <ul class="legend-body" id="legend-body"></ul>
+    </aside>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

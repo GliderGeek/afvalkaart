@@ -1,0 +1,509 @@
+{
+ "naam": "Erasmusparkbuurt-West",
+ "buurt": {
+  "code": "EF02",
+  "id": "03630980000128"
+ },
+ "afsnijden": {
+  "lijn": [
+   [
+    4.839928,
+    52.374659
+   ],
+   [
+    4.862509,
+    52.377575
+   ]
+  ],
+  "reden": "De kaart van het besluit toont ten zuiden van de Erasmusgracht geen plekken; de buurt EF02 loopt daar door tot de Jan van Galenstraat. Alleen het deel links (noord) van deze lijn, die langs de Erasmusgracht loopt, hoort bij het plan."
+ },
+ "bron": {
+  "tekening": "docs/afvalplan_erasmusparkbuurt-west.pdf",
+  "tabellen": "docs/plekken_containers_en_grof_afval_erasmusparkbuurt-west.pdf",
+  "tekeningnummer": "EF02-001",
+  "goedgekeurd": "2026-09-29"
+ },
+ "nieuw": [
+  {
+   "adres": "Sanderijnstraat 60",
+   "code": "1055CK-60",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Egidiusstraat 61",
+   "code": "1055GN-61",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Theophilusstraat 1",
+   "code": "1055CN-1",
+   "items": {
+    "rest_oc": 2,
+    "papier_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Theophilusstraat 17",
+   "code": "1055CR-17",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Gloriantstraat 22",
+   "code": "1055CW-22",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Bos en Lommerweg 203",
+   "code": "1055DT-203",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Reinaert de Vosstraat 27",
+   "code": "1055CL-27",
+   "items": {
+    "rest_oc": 2,
+    "papier_oc": 1,
+    "textiel_bc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Egidiusstraat 1",
+   "code": "1055GK-1",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Elckerlijcstraat 18",
+   "code": "1055AN-18",
+   "items": {
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Hoofdweg 646",
+   "code": "1055AB-646",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Hoofdweg 458",
+   "code": "1055AB-458",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Elckerlijcstraat 24",
+   "code": "1055AN-24",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Griseldestraat 22",
+   "code": "1055AW-22",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Lanseloetstraat 24",
+   "code": "1055BG-24",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Sanderijnstraat 23",
+   "code": "1055BN-23",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Esmoreitstraat 26",
+   "code": "1055CE-26",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Tijl Uilenspiegelstraat 6",
+   "code": "1055CK-6",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Bos en Lommerweg 263",
+   "code": "1055DW-263",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Bos en Lommerweg 331",
+   "code": "1055EA-331",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Tijl Uilenspiegelstraat 1",
+   "code": "1055CK-1",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Egidiusstraat 10",
+   "code": "1055GT-10",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Theophilusstraat 16",
+   "code": "1055CR-16",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Gloriantstraat 21",
+   "code": "1055CW-21",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Lorreinenstraat 2",
+   "code": "1055CX-2",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Merlijnstraat 19",
+   "code": "1055DE-19",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Vier Heemskinderenstraat 56",
+   "code": "1055LN-56",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Reinaert de Vosstraat 18",
+   "code": "1055CM-18",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Reinaert de Vosstraat 16",
+   "code": "1055CM-16",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Twee Koningskinderenstraat 1",
+   "code": "1055DG-1",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Heer Halewijnstraat 1",
+   "code": "1055SN-1",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Heer Halewijnstraat 21",
+   "code": "1055ST-21",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Blancefloorstraat 18",
+   "code": "1055TC-18",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Ferguutstraat 1",
+   "code": "1055SV-1",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Elegaststraat 1",
+   "code": "1055TE-1",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Roelantstraat 19",
+   "code": "1056ES-19",
+   "items": {
+    "grof_ap": 1
+   }
+  },
+  {
+   "adres": "Vier Heemskinderenstraat 16",
+   "code": "1055LH-16",
+   "items": {
+    "grof_ap": 1
+   }
+  }
+ ],
+ "opheffen": [
+  {
+   "adres": "Theophilusstraat 9",
+   "code": "1055CP-9",
+   "items": {
+    "rest_oc": 2
+   }
+  },
+  {
+   "adres": "Gloriantstraat 11",
+   "code": "1055CT-11",
+   "items": {
+    "rest_oc": 1
+   }
+  },
+  {
+   "adres": "Lorreinenstraat 11",
+   "code": "1055CZ-11",
+   "items": {
+    "rest_oc": 1
+   }
+  },
+  {
+   "adres": "Merlijnstraat 10",
+   "code": "1055DD-10",
+   "items": {
+    "rest_oc": 1
+   }
+  }
+ ],
+ "wijzigen": [
+  {
+   "adres": "Bos en Lommerweg 337",
+   "code": "1055EA-337",
+   "voor": {
+    "rest_oc": 2
+   },
+   "items": {
+    "rest_oc": 2,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Elckerlijcstraat 46",
+   "code": "1055AP-46",
+   "voor": {
+    "rest_oc": 2
+   },
+   "items": {
+    "rest_oc": 2,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Esmoreitstraat 60",
+   "code": "1055CJ-60",
+   "voor": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Reinaert de Vosstraat 12",
+   "code": "1055CM-12",
+   "voor": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1,
+    "textiel_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1,
+    "textiel_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Heer Halewijnstraat 12",
+   "code": "1055SR-12",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Ferguutstraat 13",
+   "code": "1055SX-13",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Blancefloorstraat 13",
+   "code": "1055TC-13",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Elegaststraat 14",
+   "code": "1055TH-14",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Vier Heemskinderenstraat 15",
+   "code": "1055LH-15",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "papier_oc": 1
+   }
+  },
+  {
+   "adres": "Erasmusgracht 30",
+   "code": "1055BJ-30",
+   "voor": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "glas_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Marieken van Nimwegenstraat 20",
+   "code": "1055AN-20",
+   "voor": {
+    "rest_oc": 2
+   },
+   "items": {
+    "rest_oc": 2,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Marieken van Nimwegenstraat 13",
+   "code": "1055BL-13",
+   "voor": {
+    "rest_oc": 2
+   },
+   "items": {
+    "rest_oc": 2,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Marieken van Nimwegenstraat 11",
+   "code": "1055BK-11",
+   "voor": {
+    "rest_oc": 2,
+    "papier_oc": 1
+   },
+   "items": {
+    "rest_oc": 2,
+    "papier_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Sanderijnstraat 17",
+   "code": "1055BN-17",
+   "voor": {
+    "rest_oc": 2
+   },
+   "items": {
+    "rest_oc": 2,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Marieken van Nimwegenstraat 5",
+   "code": "1055BK-5",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "papier_oc": 1,
+    "gfe_vc": 1
+   }
+  },
+  {
+   "adres": "Vier Heemskinderenstraat 24",
+   "code": "1055LJ-24",
+   "voor": {
+    "rest_oc": 1
+   },
+   "items": {
+    "rest_oc": 1,
+    "gfe_vc": 1
+   }
+  }
+ ]
+}
